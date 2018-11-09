@@ -1,27 +1,22 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
+  <meta charset="utf-8">
 	<title>La tavola periodica degli elementi</title>
 	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
 	<meta http-equiv="Content-Language" content="it" />
-	<meta name="Robots" content="All" />
-	<meta name="Description" content="HTML.it - il sito italiano sul Web publishing" />
-	<meta name="Keywords" content="javascript" />
-	<meta name="Owner" content="HTML.it srl" /> 
-	<meta name="Author" content="HTML.it srl" />  
-	<meta name="Copyright" content="HTML.it srl" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="css/periodic_table.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link href="css/periodic_table.css" rel="stylesheet" type="text/css" />
 
-    <script type="text/javascript" src="js/SpryData.js"></script>
-    <script type="text/javascript" src="js/SpryHTMLDataSet.js"></script>
-    <script type="text/javascript" src="js/SpryDOMUtils.js"></script>
-    <script type="text/javascript" src="js/SpryTooltip.js"></script>
-    <script type="text/javascript" src="js/periodic_table.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <script type="text/javascript">
+  <script type="text/javascript" src="js/SpryData.js"></script>
+  <script type="text/javascript" src="js/SpryHTMLDataSet.js"></script>
+  <script type="text/javascript" src="js/SpryDOMUtils.js"></script>
+  <script type="text/javascript" src="js/SpryTooltip.js"></script>
+  <script type="text/javascript" src="js/periodic_table.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script type="text/javascript">
     var ds1 = new Spry.Data.HTMLDataSet(null,"atoms");
     var types = new Spry.Data.HTMLDataSet(null,"atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Element_Type']});
     var periods = new Spry.Data.HTMLDataSet(null, "atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Period']});
@@ -31,24 +26,62 @@
     ds1.addObserver({onPostLoad: function(ds, data) {
           Spry.Utils.removeClassName("wholeContainer", "SpryHiddenClass");
     }});
-    </script>
+  </script>
 
 	</head>
 <body>
 
-<h1>Tavola periodica degli elementi</h1>
+    <div class="jumbotron">
+      <h1 class="display-4" style="color: black;">Tavola periodica degli elementi</h1>
+      <p class="lead">Progetto sviluppato dalla 5^A Liceo delle Scienze Applicate in collaborazione con la 5^A Informatica in occasione della Giornata della Scienza di Iglesias 2018-2019</p>
+      <!-- Button "Scopri di più" trigger modal -->
+        <center><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+          Scopri di più
+        </button></center>
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Giornata della Scienza</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                Scopo della <b>Settimana della Cultura Scientifica e Tecnologica</b> è di mobilitare tutte le competenze e le energie del Paese per favorire la più capillare diffusione di una solida e critica cultura tecnico-scientifica.<br>
+                In particolare, la Settimana stimola l'apertura di <b>efficaci canali di comunicazione</b> e di scambio tra l'universo della società civile (<i>che vede in prima fila il mondo della scuola</i>), da un lato, e l'articolato complesso del Sistema Ricerca (università, enti di ricerca pubblici e privati, musei, aziende, associazioni, ecc.), dall'altro.<br>
+                La manifestazione generalmente offre avvenimenti  su temi di storia delle scienze e delle tecniche, di attualità scientifica,  e propone riflessioni sui fondamenti delle scienze  e sulle implicazioni etico-politiche  della ricerca scientifica e tecnologica. La tipologia delle iniziative è ampia ed eterogenea: mostre, laboratori, lezioni, seminari, conferenze, proiezioni, visite guidate ai musei scientifici, ecc….<br>
+                Durante la Giornata della Scienza 2018, le classi <b>5^A Liceo delle Scienze Applicate</b> e <b>5^A Informatica</b> dell'Istituto "<i>Asproni-Fermi</i>" di Iglesias presentano questa tavola periodixa degli elementi interattiva, basata sulle ricerche svolte riguardo i <b>Raw Materials</b>.<br><br>
+                <h5>Testi:</h5> 5^A Liceo delle Scienze Applicate<br>
+                <h5>Web App:</h5> 5^A Informatica<br><br>
+                <i>Gli studenti della 5^A Informatici vogliono ringraziare gli studenti del Liceo delle Scienze Applicate per avergli offerto l'opportunità di cimentarsi nello sviluppo di questa applicazione web</i>
+
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Chiudi</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      <hr class="my-4">
+      <p>
+        <!--Filters-->
+          <div id="filters">
+                <div>
+                    <span class="redText">Tipi elementi:</span> <span spry:region="types" spry:repeat="types" class="SpryHiddenRegion"><a href="#" onclick="GrayOutTable('{Element_Type}'); return false;">{Element_Type}</a>&nbsp; </span></div>
+            <div class="floatElements"><span class="redText">Periodi (righe):</span> <span spry:region="periods" spry:repeat="periods" class="SpryHiddenRegion"> <a href="#" onclick="GrayOutTable('{Period}');">{Period}</a>&nbsp; </span> </div>
+            <br class="clear" />
+            <div class="floatElements"><span class="redText">Gruppi (Colonne):</span> <span spry:region="groups" spry:repeatchildren="groups" spry:test="{Group} &lt;= 18" class="SpryHiddenRegion"> <a class="groupList" href="#" onclick="GrayOutTable('{Group}'); return false;" >{Group}</a>&nbsp; </span></div>
+            <br class="clear" /><br>
+            <button type="button" class="btn btn-primary" onclick="clearGray(); return false;">Mostra tutto</button>
+        </div>
+      </p>
+    </div>
 
 <div id="wholeContainer" class="SpryHiddenClass">
-  <!-- Filters -->
-  <div id="filters">
-		<div>
-			<span class="redText">Element Types:</span> <span spry:region="types" spry:repeat="types" class="SpryHiddenRegion"><a href="#" onclick="GrayOutTable('{Element_Type}'); return false;">{Element_Type}</a>&nbsp; </span></div>
-    <div class="floatElements"><span class="redText">Periods (rows):</span> <span spry:region="periods" spry:repeat="periods" class="SpryHiddenRegion"> <a href="#" onclick="GrayOutTable('{Period}');">{Period}</a>&nbsp; </span> </div>
-    <br class="clear" />
-    <div class="floatElements"><span class="redText">Groups (columns):</span> <span spry:region="groups" spry:repeatchildren="groups" spry:test="{Group} &lt;= 18" class="SpryHiddenRegion"> <a class="groupList" href="#" onclick="GrayOutTable('{Group}'); return false;" >{Group}</a>&nbsp; </span></div>
-    <br class="clear" />
-    <a href="#" onclick="clearGray(); return false;">Show All</a>
-</div>
+  
 <br class="clear" />
 
 <!-- Main element block -->
@@ -60,7 +93,6 @@
 <br class="clear" />
 <br />
 
-<!-- Lanthanide/Actinide block -->
 <div id="Lanthanide" spry:region="ds1" spry:repeatchildren="ds1" class="SpryHiddenRegion">
 <br spry:if="{No} == 90" class="clear" />
   <div class="elementBlock {Element_Type} {Period} {Name} {Group}" spry:if="({No} &gt;= 58 &amp;&amp; {No} &lt;= 71) || ({No} &gt;= 90 &amp;&amp; {No} &lt;= 103)" onmouseover="ds1.setCurrentRow('{ds_RowID}');" spry:hover="hover"> <span class="number">{No}</span> <span class="group"> {Group} </span>
@@ -69,17 +101,17 @@
 </div>
 <!-- Tooltip -->
 <div spry:detailregion="ds1" id="tooltip" class="SpryHiddenRegion"> 
-	Name: 			<span class="value">{Name}</span><br />
-  Type: 			<span class="value">{Element_Type}</span><br />
-  Group: 			<span class="value">{Group}</span><br />
-  Symbol: 		<span class="value">{Symbol}</span><br />
-  Period: 		<span class="value">{Period}</span><br />
-  Boiling Point:<span class="value">{BP}</span><br />
-  Melting Point:<span class="value">{MP}</span><br />
-  Density: 		<span class="value">{Density}</span><br />
-  Atomic Weight:<span class="value">{Atomicweight}</span><br />
-  Electron Config:<span class="value">{Electron_configuration}</span><br />
-  Year Discovered:<span class="value">{DiscoveryYear}</span> </div>
+    Nome: 			<span class="value">{Name}</span><br />
+    Tipo: 			<span class="value">{Element_Type}</span><br />
+    Gruppo: 			<span class="value">{Group}</span><br />
+    Simbolo: 		<span class="value">{Symbol}</span><br />
+    Periodo: 		<span class="value">{Period}</span><br />
+    P. ebollizione:<span class="value">{BP}</span><br />
+    P. fusione:<span class="value">{MP}</span><br />
+    Densità: 		<span class="value">{Density}</span><br />
+    Peso atomico:<span class="value">{Atomicweight}</span><br />
+    Conf. Elettronica:<span class="value">{Electron_configuration}</span><br />
+    Anno scoperta:<span class="value">{DiscoveryYear}</span> </div>
 	<script type="text/javascript">
 			Spry.Data.Region.addObserver('mainRegion',{onPostUpdate:function(){var tt1 = new Spry.Widget.Tooltip('tooltip','#mainRegion .elementBlock',{showDelay:750, hideDelay:500});}});
 			Spry.Data.Region.addObserver('Lanthanide',{onPostUpdate:function(){var tt2 = new Spry.Widget.Tooltip('tooltip','#Lanthanide .elementBlock',{showDelay:750, hideDelay:500});}});
@@ -105,7 +137,7 @@
   <tr>
     <td>1</td>
     <td>1.0079</td>
-    <td>Hydrogen</td>
+    <td>Idrogeno</td>
     <td>H</td>
     <td>-259</td>
     <td>-253</td>
@@ -120,7 +152,7 @@
   <tr class="nobel">
     <td>2</td>
     <td>4.0026</td>
-    <td>Helium</td>
+    <td>Elio</td>
     <td>He</td>
     <td>-272</td>
     <td>-269</td>
@@ -135,7 +167,7 @@
   <tr class="metal">
     <td>3</td>
     <td>6.941</td>
-    <td>Lithium</td>
+    <td>Litio</td>
     <td>Li</td>
     <td>180</td>
     <td>1347</td>
@@ -150,7 +182,7 @@
   <tr class="metal">
     <td>4</td>
     <td>9.0122</td>
-    <td>Beryllium</td>
+    <td>Berilio</td>
     <td>Be</td>
     <td>1278</td>
     <td>2970</td>
@@ -1738,5 +1770,8 @@
     <td>Theoretical</td>
   </tr>
 </table>
+  <footer>
+    <p class="text-muted">Built with &#9829; by <a href="https://github.com/giornata-scienza/tavola-periodica">5^A Informatica</a></p>
+  </footer>
 </body>
 </html>
