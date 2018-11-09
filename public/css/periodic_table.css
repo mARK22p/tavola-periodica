@@ -3,8 +3,7 @@ body {
 	font-size: 0.9em;
 	color: #000000;
 	margin-left: 10px;
-   	background-image: url("http://www.melovewebdesign.com/wp-content/uploads/2014/03/Blurred_Background_16.jpg");
-   	background-color: #cccccc;
+   	background-color: #222;
    	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: cover; /* Resize the background image to cover the entire container */
