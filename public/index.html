@@ -70,17 +70,17 @@
 </div>
 <!-- Tooltip -->
 <div spry:detailregion="ds1" id="tooltip" class="SpryHiddenRegion"> 
-	Name: 			<span class="value">{Name}</span><br />
-  Type: 			<span class="value">{Element_Type}</span><br />
-  Group: 			<span class="value">{Group}</span><br />
-  Symbol: 		<span class="value">{Symbol}</span><br />
-  Period: 		<span class="value">{Period}</span><br />
-  Boiling Point:<span class="value">{BP}</span><br />
-  Melting Point:<span class="value">{MP}</span><br />
-  Density: 		<span class="value">{Density}</span><br />
-  Atomic Weight:<span class="value">{Atomicweight}</span><br />
-  Electron Config:<span class="value">{Electron_configuration}</span><br />
-  Year Discovered:<span class="value">{DiscoveryYear}</span> </div>
+  Nome: 		<span class="value">{Name}</span><br />
+  Tipo: 		<span class="value">{Element_Type}</span><br />
+  Gruppo: 		<span class="value">{Group}</span><br />
+  Simbolo: 		<span class="value">{Symbol}</span><br />
+  Periodo: 		<span class="value">{Period}</span><br />
+  Punto Ebollizione:<span class="value">{BP}</span><br />
+  Punto Scioglimento:<span class="value">{MP}</span><br />
+  Densita': 		<span class="value">{Density}</span><br />
+  Peso Atomico:<span class="value">{Atomicweight}</span><br />
+  Configurazione Elettroni:<span class="value">{Electron_configuration}</span><br />
+  Anno Scoperta:<span class="value">{DiscoveryYear}</span> </div>
 	<script type="text/javascript">
 			Spry.Data.Region.addObserver('mainRegion',{onPostUpdate:function(){var tt1 = new Spry.Widget.Tooltip('tooltip','#mainRegion .elementBlock',{showDelay:750, hideDelay:500});}});
 			Spry.Data.Region.addObserver('Lanthanide',{onPostUpdate:function(){var tt2 = new Spry.Widget.Tooltip('tooltip','#Lanthanide .elementBlock',{showDelay:750, hideDelay:500});}});
