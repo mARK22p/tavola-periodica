@@ -1,0 +1,19 @@
+{
+  "name": "tavola-periodica",
+  "version": "1.0.0",
+  "description": "Tavola periodica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giornata-scienza/tavola-periodica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giornata-scienza/tavola-periodica/issues"
+  },
+  "homepage": "https://github.com/giornata-scienza/tavola-periodica#readme"
+}
