@@ -10,6 +10,8 @@
 
   .jumbotron {
 	  text-shadow: none;
+	  background: none;
+	  color: white;
   }
   
   .wrapper {
