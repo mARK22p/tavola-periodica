@@ -103,17 +103,6 @@
 	padding: 2px;
 	text-align: center;
   }
-  .element .atomic-weight {
-	position: absolute;
-	right: 0;
-	top: 0;
-	list-style: none;
-	margin: 0;
-	padding: 2px;
-	opacity: 0;
-	transition: 200ms;
-	text-align: right;
-  }
   .element .model {
 	display: none;
 	position: absolute;
@@ -1800,10 +1789,6 @@
   .element input[type="radio"].activate:checked ~ .square .label {
 	transition-duration: 500ms;
 	transform: scale(0.75);
-  }
-  .element input[type="radio"].activate:checked ~ .square .atomic-weight {
-	opacity: 1;
-	transition: 500ms;
   }
   .element input[type="radio"].activate:checked ~ .square .model {
 	display: block;
