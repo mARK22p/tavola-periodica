@@ -1,13 +1,10 @@
 body {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 0.9em;
-	color: #000000;
-	margin-left: 10px;
-  background: radial-gradient(ellipse at center,  #34679a 0%,#214163 47%,#0d1926 100%);
-  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  color: #000;
   margin-left: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
+  background: radial-gradient(ellipse at center, #34679a 0%,#214163 47%,#0d1926 100%);
+  margin: 10px;
 }
 
 h1 {
@@ -15,7 +12,7 @@ h1 {
 }
 a:visited {
 	font-weight: bold;
-	color: #FFFFFF;
+	color: #fff;
 }
 /* sets the width of the whole table so it doesn't wrap on smaller screens. */
 #wholeContainer {
@@ -23,18 +20,19 @@ a:visited {
 }
 /* positions the last 2 rows. The width */
 #Lanthanide {
-	margin-left:175px;
+	margin-left: 175px;
 }
 #tooltip {
-	background-color: #FFFFCC;
-	border: 2px solid #666666;
+	background-color: #ffc;
+	border: 2px solid #666;
 	padding: 4px;
-	color: #333333;
+	color: #333;
 }
 #wholeContainer #filters {
 	font-weight: bold;
-	color: #FFFFFF;
+	color: #fff;
 	margin-top: 10px;
+	margin: auto;
 }
 /* Used to hide data references and source table on page load */
 .SpryHiddenRegion {
@@ -72,7 +70,7 @@ a:visited {
   cursor: pointer;
 }
 /* Used to position these two elements correctly when we break out the Lanthanide/Actinide periods */
-.lanthanide, .actinide{
+.lanthanide, .actinide {
 	float:left;
 	position:relative;
 }
@@ -95,41 +93,40 @@ a:visited {
 	margin-bottom:10px;
 }
 /* Colors for Element Types */
-.NonMetal{
+.NonMetal {
 	background-color:#FF6600
 }
-.Inert{
+.Inert {
 	background-color:#00CC66
 }
-.AlkaliMetals{
+.AlkaliMetals {
 	background-color:#99FF00
 }
-.AlkaliEarthMetal{
+.AlkaliEarthMetal {
 	background-color:#CCCC33
 }
-.Halogen{
+.Halogen {
 	background-color:#FFFF33
 }
-.OtherMetals{
+.OtherMetals {
 	background-color:#66CCCC
 }
-.TransitionMetal{
+.TransitionMetal {
 	background-color:#CC6666
 }
-.RareEarthMetal{
+.RareEarthMetal {
 	background-color:#3399FF
 }
-.Theoretical{
+.Theoretical {
 	background-color:#9900CC
 }
 
-.iframeTooltip
-{
+.iframeTooltip {
 	position: absolute;
 	z-index: 1010;
-	filter:alpha(opacity:0.1);
+	opacity: .1;
 }
-/* ---*/
+
 .grayOut {
 	opacity: .3;
 	filter: alpha(opacity=30);
@@ -146,20 +143,20 @@ a:visited {
 	border-left-style: none;
 	border-bottom-color: #666666;
 }
-.SpryHiddenClass  {
+.SpryHiddenClass {
 	display:none;
 }
-.clear{
+.clear {
 	clear:both;
 }
-.floatElements{
+.floatElements {
 	float:left;
 }
-p{
+p {
 	text-align: center;
 }
-#tooltip .value{
-	 font-weight: bold;
+#tooltip .value {
+	font-weight: bold;
 }
 .jsEnabled #atoms {
 	display: none;
