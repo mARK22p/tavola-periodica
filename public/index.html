@@ -1,8 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="it">
+<!DOCTYPE html>
+<html lang="it">
 <head>
-	<title>La tavola periodica degli elementi creata con Javascript - Esempio JavaScript scaricato da HTML.it</title>
+	<title>La tavola periodica degli elementi</title>
 	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
 	<meta http-equiv="Content-Language" content="it" />
 	<meta name="Robots" content="All" />
@@ -25,9 +24,9 @@
     <script type="text/javascript">
     var ds1 = new Spry.Data.HTMLDataSet(null,"atoms");
     var types = new Spry.Data.HTMLDataSet(null,"atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Element_Type']});
-    var periods = new Spry.Data.HTMLDataSet(null,"atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Period']});
-    var groups = new Spry.Data.HTMLDataSet(null,"atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Group'],sortOnLoad:"Group",sortOrderOnLoad:"ascending"});
-    groups.setColumnType("Group","number");
+    var periods = new Spry.Data.HTMLDataSet(null, "atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Period']});
+    var groups = new Spry.Data.HTMLDataSet(null, "atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Group'],sortOnLoad:"Group",sortOrderOnLoad:"ascending"});
+    groups.setColumnType("Group", "number");
 
     ds1.addObserver({onPostLoad: function(ds, data) {
           Spry.Utils.removeClassName("wholeContainer", "SpryHiddenClass");
@@ -1739,10 +1738,5 @@
     <td>Theoretical</td>
   </tr>
 </table>
-
-<br /><br /><br /><br /><br /><br />
-	<div align="center">
-<a href="http://www.html.it"><img src="logo_htmlit.gif" alt="JavaScript scaricato da HTML.it" border="0" width="50" height="50" /></a><br />
-
 </body>
 </html>
