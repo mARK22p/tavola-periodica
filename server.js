@@ -1,8 +1,16 @@
-const connect = require('connect')
-const serveStatic = require('serve-static')
+const express = require('express')
 
 const port = 1234
+const elements = require('./elements.json')
 
-connect().use(serveStatic(__dirname + '/public')).listen(port, () => {
+var app = express()
+app.set('view engine', 'ejs')
+app.use(express.static(__dirname + '/public'))
+
+app.get('/', (req, res) => {
+  res.render('index', { elements })
+})
+
+app.listen(port, () => {
     console.log(`Server running on ${port}...`)
 })

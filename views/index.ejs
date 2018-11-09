@@ -25,19 +25,33 @@
           <div class="modal-dialog" role="document">
             <div class="modal-content">
               <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLongTitle">Giornata della Scienza</h5>
+                <h4 class="modal-title" id="exampleModalLongTitle">Giornata della Scienza</h4>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
                 </button>
               </div>
               <div class="modal-body">
-                Scopo della <b>Settimana della Cultura Scientifica e Tecnologica</b> è di mobilitare tutte le competenze e le energie del Paese per favorire la più capillare diffusione di una solida e critica cultura tecnico-scientifica.<br>
-                In particolare, la Settimana stimola l'apertura di <b>efficaci canali di comunicazione</b> e di scambio tra l'universo della società civile (<i>che vede in prima fila il mondo della scuola</i>), da un lato, e l'articolato complesso del Sistema Ricerca (università, enti di ricerca pubblici e privati, musei, aziende, associazioni, ecc.), dall'altro.<br>
-                La manifestazione generalmente offre avvenimenti  su temi di storia delle scienze e delle tecniche, di attualità scientifica,  e propone riflessioni sui fondamenti delle scienze  e sulle implicazioni etico-politiche  della ricerca scientifica e tecnologica. La tipologia delle iniziative è ampia ed eterogenea: mostre, laboratori, lezioni, seminari, conferenze, proiezioni, visite guidate ai musei scientifici, ecc….<br>
-                Durante la Giornata della Scienza 2018, le classi <b>5^A Liceo delle Scienze Applicate</b> e <b>5^A Informatica</b> dell'Istituto "<i>Asproni-Fermi</i>" di Iglesias presentano questa tavola periodixa degli elementi interattiva, basata sulle ricerche svolte riguardo i <b>Raw Materials</b>.<br><br>
-                <h5>Testi:</h5> 5^A Liceo delle Scienze Applicate<br>
-                <h5>Web App:</h5> 5^A Informatica<br><br>
-                <i>Gli studenti della 5^A Informatici vogliono ringraziare gli studenti del Liceo delle Scienze Applicate per avergli offerto l'opportunità di cimentarsi nello sviluppo di questa applicazione web</i>
+                <p>
+                  Scopo della <b>Settimana della Cultura Scientifica e Tecnologica</b> è di mobilitare tutte le competenze e le energie del Paese per favorire la più capillare diffusione di una solida e critica cultura tecnico-scientifica.
+                </p>
+                <p>
+                  In particolare, la Settimana stimola l'apertura di <b>efficaci canali di comunicazione</b> e di scambio tra l'universo della società civile (<i>che vede in prima fila il mondo della scuola</i>), da un lato, e l'articolato complesso del Sistema Ricerca (università, enti di ricerca pubblici e privati, musei, aziende, associazioni, ecc.), dall'altro.
+                </p>
+                <p>
+                  La manifestazione generalmente offre avvenimenti  su temi di storia delle scienze e delle tecniche, di attualità scientifica, e propone riflessioni sui fondamenti delle scienze  e sulle implicazioni etico-politiche  della ricerca scientifica e tecnologica. La tipologia delle iniziative è ampia ed eterogenea: mostre, laboratori, lezioni, seminari, conferenze, proiezioni, visite guidate ai musei scientifici, ecc….
+                </p>
+                <p>
+                  Durante la Giornata della Scienza 2018, le classi <b>5^A Liceo delle Scienze Applicate</b> e <b>5^A Informatica</b> dell'Istituto "<i>Asproni-Fermi</i>" di Iglesias presentano questa tavola periodixa degli elementi interattiva, basata sulle ricerche svolte riguardo i <b>Raw Materials</b>.
+                </p>
+                <hr>
+                <h5>Ricerca e testi:</h5>
+                <p>5^A Liceo delle Scienze Applicate</p>
+                <h5>Web App:</h5>
+                <p>5^A Informatica</p>
+                <hr>
+                <p>
+                  <i>Gli studenti della 5^A Informatici vogliono ringraziare gli studenti del Liceo delle Scienze Applicate per avergli offerto l'opportunità di cimentarsi nello sviluppo di questa applicazione web.</i>
+                </p>
 
               </div>
               <div class="modal-footer">
@@ -71,44 +85,11 @@
     <input class="category-cancel" type="radio" id="cancel" name="categories"/>
     <input class="category-toggle" type="radio" id="unknown" name="categories"/>
     <input class="category-cancel" type="radio" id="cancel" name="categories"/>
+
     <div class="periodic-table">
-      <div class="element other-nonmetal c1 r1">
-        <input class="activate" type="radio" name="elements"/>
-        <input class="deactivate" type="radio" name="elements"/>
-        <div class="overlay"></div>
-        <div class="square">
-          <div class="model">
-            <div class="orbital">
-              <div class="electron"></div>
-            </div>
-          </div>
-          <div class="atomic-number">1</div>
-          <div class="label">
-            <div class="symbol">H</div>
-            <div class="name">Idrogeno</div>
-          </div>
-          <div class="atomic-mass">1.008</div>
-        </div>
-      </div>
-      <div class="element noble-gas c18 r1">
-        <input class="activate" type="radio" name="elements"/>
-        <input class="deactivate" type="radio" name="elements"/>
-        <div class="overlay"></div>
-        <div class="square">
-          <div class="model">
-            <div class="orbital">
-              <div class="electron"></div>
-              <div class="electron"></div>
-            </div>
-          </div>
-          <div class="atomic-number">2</div>
-          <div class="label">
-            <div class="symbol">He</div>
-            <div class="name">Elio</div>
-          </div>
-          <div class="atomic-mass">4.0026</div>
-        </div>
-      </div>
+
+      <% include elements %>
+
       <div class="element alkali-metal c1 r2">
         <input class="activate" type="radio" name="elements"/>
         <input class="deactivate" type="radio" name="elements"/>
