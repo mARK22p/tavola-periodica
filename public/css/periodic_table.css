@@ -8,6 +8,10 @@
 	  color: #fff;
   }
 
+  .modal {
+	  color: black;
+  }
+
   .jumbotron {
 	  text-shadow: none;
 	  text-align: center;
