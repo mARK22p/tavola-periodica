@@ -3,11 +3,11 @@ body {
 	font-size: 0.9em;
 	color: #000000;
 	margin-left: 10px;
-   	background: radial-gradient(ellipse at center,  #34679a 0%,#214163 47%,#0d1926 100%);
-   	margin-top: 10px;
-   	margin-left: 10px;
-   	margin-bottom: 10px;
-   	margin-right: 10px;
+  background: radial-gradient(ellipse at center,  #34679a 0%,#214163 47%,#0d1926 100%);
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
 }
 
 h1 {
@@ -69,6 +69,7 @@ a:visited {
 .hover {
 	font-weight: bold;
 	color: #FFFFFF;
+  cursor: pointer;
 }
 /* Used to position these two elements correctly when we break out the Lanthanide/Actinide periods */
 .lanthanide, .actinide{

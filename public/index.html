@@ -1,33 +1,32 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="it">
+<!DOCTYPE html>
+<html lang="it">
 <head>
-	<title>La tavola periodica degli elementi creata con Javascript - Esempio JavaScript scaricato da HTML.it</title>
-    <meta charset="utf-8">
+  <meta charset="utf-8">
+	<title>La tavola periodica degli elementi</title>
 	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
 	<meta http-equiv="Content-Language" content="it" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="css/periodic_table.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link href="css/periodic_table.css" rel="stylesheet" type="text/css" />
 
-    <script type="text/javascript" src="js/SpryData.js"></script>
-    <script type="text/javascript" src="js/SpryHTMLDataSet.js"></script>
-    <script type="text/javascript" src="js/SpryDOMUtils.js"></script>
-    <script type="text/javascript" src="js/SpryTooltip.js"></script>
-    <script type="text/javascript" src="js/periodic_table.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <script type="text/javascript">
+  <script type="text/javascript" src="js/SpryData.js"></script>
+  <script type="text/javascript" src="js/SpryHTMLDataSet.js"></script>
+  <script type="text/javascript" src="js/SpryDOMUtils.js"></script>
+  <script type="text/javascript" src="js/SpryTooltip.js"></script>
+  <script type="text/javascript" src="js/periodic_table.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script type="text/javascript">
     var ds1 = new Spry.Data.HTMLDataSet(null,"atoms");
     var types = new Spry.Data.HTMLDataSet(null,"atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Element_Type']});
-    var periods = new Spry.Data.HTMLDataSet(null,"atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Period']});
-    var groups = new Spry.Data.HTMLDataSet(null,"atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Group'],sortOnLoad:"Group",sortOrderOnLoad:"ascending"});
-    groups.setColumnType("Group","number");
+    var periods = new Spry.Data.HTMLDataSet(null, "atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Period']});
+    var groups = new Spry.Data.HTMLDataSet(null, "atoms",{distinctOnLoad:true, distinctFieldsOnLoad:['Group'],sortOnLoad:"Group",sortOrderOnLoad:"ascending"});
+    groups.setColumnType("Group", "number");
 
     ds1.addObserver({onPostLoad: function(ds, data) {
           Spry.Utils.removeClassName("wholeContainer", "SpryHiddenClass");
     }});
-    </script>
+  </script>
 
 	</head>
 <body>
@@ -1771,10 +1770,8 @@
     <td>Theoretical</td>
   </tr>
 </table>
-
-<br /><br /><br /><br /><br /><br />
-	<div align="center">
-<p class=" text-muted">Built with &#9829; by <a href="https://github.com/giornata-scienza/tavola-periodica">5^A Informatica</a></p>
-
+  <footer>
+    <p class="text-muted">Built with &#9829; by <a href="https://github.com/giornata-scienza/tavola-periodica">5^A Informatica</a></p>
+  </footer>
 </body>
 </html>
