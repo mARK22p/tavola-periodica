@@ -10,6 +10,7 @@
 
   .jumbotron {
 	  text-shadow: none;
+	  text-align: center;
 	  background: none;
 	  color: white;
   }
