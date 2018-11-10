@@ -1,0 +1,18 @@
+[
+  {
+    "classes": "other-nonmetal c1 r1",
+    "orbitals": [1],
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": "Idrogeno",
+    "atomicMass": 1.008
+  },
+  {
+    "classes": "noble-gas c18 r1",
+    "orbitals": [2],
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": "Elio",
+    "atomicMass": 4.0026
+  }
+]
