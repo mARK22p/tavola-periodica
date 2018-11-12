@@ -276,7 +276,39 @@
     "orbitals": [6, 18, 8, 2],
     "atomicNumber": 34,
     "symbol": "Se",
-    "name": "Selendio",
+    "name": "Selenio",
     "atomicMass": 78.971
+  },
+  {
+    "classes": "other-nonmetal c17 r4",
+    "orbitals": [7, 18, 8, 2],
+    "atomicNumber": 35,
+    "symbol": "Br",
+    "name": "Bromo",
+    "atomicMass": 79.904
+  },
+  {
+	"classes": "noble-gas c18 r4",
+    "orbitals": [8, 18, 8, 2],
+    "atomicNumber": 36,
+    "symbol": "Kr",
+    "name": "Kripton",
+    "atomicMass": 83.798
+  },
+  {
+	"classes": "alkali-metal c1 r5",
+    "orbitals": [1, 8, 18, 8, 2],
+    "atomicNumber": 37,
+    "symbol": "Rb",
+    "name": "Rubidio",
+    "atomicMass": 85.468
+  },
+  {
+	"classes": "alkaline-earth-metal c2 r5",
+    "orbitals": [2, 8, 18, 8, 2],
+    "atomicNumber": 38,
+    "symbol": "Sr",
+    "name": "Stronzio",
+    "atomicMass": 87.62
   }
 ]
