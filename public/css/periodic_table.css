@@ -1,6 +1,6 @@
   body {
     background: #101318;
-    text-shadow: 0 0 0.4vw currentColor;
+    text-shadow: 0 0 0.3vw currentColor;
   }
 
   footer {
@@ -1903,6 +1903,10 @@
   .unknown {
 	color: #cccccc;
   }
+
+  .raws {
+    color: #ff4532;
+  }
   
   .r1 {
 	grid-row: 1;
@@ -2119,6 +2123,7 @@
   #other-nonmetals:checked ~ .periodic-table .element:not(.other-nonmetal),
   #noble-gasses:checked ~ .periodic-table .element:not(.noble-gas),
   #unknown:checked ~ .periodic-table .element:not(.unknown),
+  #raws:checked ~ .periodic-table .element:not(.raw),
   #alkali-metals:checked ~ .periodic-table .placeholder,
   #alkaline-earth-metals:checked ~ .periodic-table .placeholder,
   #lanthanoids:checked ~ .periodic-table .placeholder:not(.lanthanoid),
@@ -2128,7 +2133,8 @@
   #metalloids:checked ~ .periodic-table .placeholder,
   #other-nonmetals:checked ~ .periodic-table .placeholder,
   #noble-gasses:checked ~ .periodic-table .placeholder,
-  #unknown:checked ~ .periodic-table .placeholder {
+  #unknown:checked ~ .periodic-table .placeholder,
+  #raws:checked ~ .periodic-table .placeholder {
 	opacity: 0.15;
 	pointer-events: none;
   }
@@ -2142,7 +2148,8 @@
   #metalloids:checked ~ .periodic-table .key label:not(.metalloid),
   #other-nonmetals:checked ~ .periodic-table .key label:not(.other-nonmetal),
   #noble-gasses:checked ~ .periodic-table .key label:not(.noble-gas),
-  #unknown:checked ~ .periodic-table .key label:not(.unknown) {
+  #unknown:checked ~ .periodic-table .key label:not(.unknown),
+  #raws:checked ~ .periodic-table .key label:not(.raw) {
 	opacity: 0.65;
   }
   
