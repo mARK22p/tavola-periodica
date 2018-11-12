@@ -14,5 +14,269 @@
     "symbol": "He",
     "name": "Elio",
     "atomicMass": 4.0026
+  },
+  {
+    "classes": "alkali-metal c1 r2",
+    "orbitals": [3],
+    "atomicNumber": 3,
+    "symbol": "Li",
+    "name": "Litio",
+    "atomicMass": 6.94
+  },
+  {
+    "classes": "alkaline-earth-metal c2 r2",
+    "orbitals": [2, 2],
+    "atomicNumber": 4,
+    "symbol": "Be",
+    "name": "Berillio",
+    "atomicMass": 9.0122
+  },
+  {
+    "classes": "metalloid c13 r2",
+    "orbitals": [3, 2],
+    "atomicNumber": 5,
+    "symbol": "B",
+    "name": "Boro",
+    "atomicMass": 10.81
+  },
+  {
+    "classes": "other-nonmetal c14 r2",
+    "orbitals": [4, 2],
+    "atomicNumber": 6,
+    "symbol": "C",
+    "name": "Carbone",
+    "atomicMass": 12.011
+  },
+  {
+    "classes": "other-nonmetal c15 r2",
+    "orbitals": [5, 2],
+    "atomicNumber": 7,
+    "symbol": "N",
+    "name": "Nitrogeno",
+    "atomicMass": 14.007
+  },
+  {
+    "classes": "other-nonmetal c16 r2",
+    "orbitals": [6, 2],
+    "atomicNumber": 8,
+    "symbol": "O",
+    "name": "Ossigeno",
+    "atomicMass": 15.999
+  },
+  {
+    "classes": "other-nonmetal c17 r2",
+    "orbitals": [7, 2],
+    "atomicNumber": 9,
+    "symbol": "F",
+    "name": "Fluoro",
+    "atomicMass": 18.998
+  },
+  {
+    "classes": "noble-gas c18 r2",
+    "orbitals": [3, 2],
+    "atomicNumber": 5,
+    "symbol": "B",
+    "name": "Boro",
+    "atomicMass": 10.81
+  },
+  {
+    "classes": "metalloid c13 r2",
+    "orbitals": [8, 2],
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "atomicMass": 20.18
+  },
+  {
+    "classes": "alkali-metal c1 r3",
+    "orbitals": [1, 8, 2],
+    "atomicNumber": 11,
+    "symbol": "Na",
+    "name": "Sodio",
+    "atomicMass": 22.99
+  },
+  {
+    "classes": "alkaline-earth-metal c2 r3",
+    "orbitals": [2, 8, 2],
+    "atomicNumber": 12,
+    "symbol": "Mg",
+    "name": "Magnesio",
+    "atomicMass": 24.305
+  },
+  {
+    "classes": "post-transition-metal c13 r3",
+    "orbitals": [3, 8, 2],
+    "atomicNumber": 13,
+    "symbol": "Al",
+    "name": "Alluminio",
+    "atomicMass": 26.982
+  },
+  {
+    "classes": "metalloid c14 r3",
+    "orbitals": [4, 8, 2],
+    "atomicNumber": 14,
+    "symbol": "Si",
+    "name": "Silicio",
+    "atomicMass": 28.085
+  },
+  {
+    "classes": "other-nonmetal c15 r3",
+    "orbitals": [5, 8, 2],
+    "atomicNumber": 15,
+    "symbol": "P",
+    "name": "Fosforo",
+    "atomicMass": 30.974
+  },
+  {
+    "classes": "other-nonmetal c16 r3",
+    "orbitals": [6, 8, 2],
+    "atomicNumber": 16,
+    "symbol": "S",
+    "name": "Zolfo",
+    "atomicMass": 32.06
+  },
+  {
+    "classes": "other-nonmetal c17 r3",
+    "orbitals": [7, 8, 2],
+    "atomicNumber": 17,
+    "symbol": "Cl",
+    "name": "Cloro",
+    "atomicMass": 35.45
+  },
+  {
+    "classes": "noble-gas c18 r3",
+    "orbitals": [8, 8, 2],
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "atomicMass": 39.948
+  },
+  {
+    "classes": "alkali-metal c1 r4",
+    "orbitals": [1, 8, 8, 2],
+    "atomicNumber": 19,
+    "symbol": "K",
+    "name": "Potassio",
+    "atomicMass": 39.098
+  },
+  {
+    "classes": "alkaline-earth-metal c2 r4",
+    "orbitals": [2, 8, 8, 2],
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "name": "Calcio",
+    "atomicMass": 40.078
+  },
+  {
+    "classes": "transition-metal c3 r4",
+    "orbitals": [2, 9, 8, 2],
+    "atomicNumber": 21,
+    "symbol": "Sc",
+    "name": "Scandio",
+    "atomicMass": 44.956
+  },
+  {
+    "classes": "transition-metal c4 r4",
+    "orbitals": [2, 10, 8, 2],
+    "atomicNumber": 22,
+    "symbol": "Ti",
+    "name": "Titanio",
+    "atomicMass": 47.867
+  },
+  {
+    "classes": "transition-metal c5 r4",
+    "orbitals": [2, 11, 8, 2],
+    "atomicNumber": 23,
+    "symbol": "V",
+    "name": "Vanadio",
+    "atomicMass": 50.942
+  },
+  {
+    "classes": "transition-metal c6 r4",
+    "orbitals": [1, 13, 8, 2],
+    "atomicNumber": 24,
+    "symbol": "Cr",
+    "name": "Cromo",
+    "atomicMass": 51.996
+  },
+  {
+    "classes": "transition-metal c7 r4",
+    "orbitals": [2, 13, 8, 2],
+    "atomicNumber": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "atomicMass": 54.938
+  },
+  {
+    "classes": "transition-metal c8 r4",
+    "orbitals": [2, 14, 8, 2],
+    "atomicNumber": 26,
+    "symbol": "Fe",
+    "name": "Ferro",
+    "atomicMass": 55.845
+  },
+  {
+    "classes": "transition-metal c9 r4",
+    "orbitals": [2, 15, 8, 2],
+    "atomicNumber": 27,
+    "symbol": "Co",
+    "name": "Cobalto",
+    "atomicMass": 58.933
+  },
+  {
+    "classes": "transition-metal c10 r4",
+    "orbitals": [2, 16, 8, 2],
+    "atomicNumber": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "atomicMass": 58.693
+  },
+  {
+    "classes": "transition-metal c11 r4",
+    "orbitals": [1, 18, 8, 2],
+    "atomicNumber": 29,
+    "symbol": "Cu",
+    "name": "Rame",
+    "atomicMass": 63.546
+  },
+  {
+    "classes": "transition-metal c12 r4",
+    "orbitals": [2, 18, 8, 2],
+    "atomicNumber": 30,
+    "symbol": "Zn",
+    "name": "Zinco",
+    "atomicMass": 65.38
+  },
+  {
+    "classes": "post-transition-metal c13 r4",
+    "orbitals": [3, 18, 8, 2],
+    "atomicNumber": 31,
+    "symbol": "Ga",
+    "name": "Gallio",
+    "atomicMass": 69.723
+  },
+  {
+    "classes": "metalloid c14 r4",
+    "orbitals": [4, 18, 8, 2],
+    "atomicNumber": 32,
+    "symbol": "Ge",
+    "name": "Germanio",
+    "atomicMass": 72.63
+  },
+  {
+    "classes": "metalloid c15 r4",
+    "orbitals": [5, 18, 8, 2],
+    "atomicNumber": 33,
+    "symbol": "As",
+    "name": "Arsenico",
+    "atomicMass": 74.922
+  },
+  {
+    "classes": "other-nonmetal c16 r4",
+    "orbitals": [6, 18, 8, 2],
+    "atomicNumber": 34,
+    "symbol": "Se",
+    "name": "Selendio",
+    "atomicMass": 78.971
   }
 ]
