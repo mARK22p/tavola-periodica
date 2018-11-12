@@ -1,0 +1,187 @@
+V: 
+	CINA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26951828.924054436!2d86.05428755035678!3d34.451686410470906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31508e64e5c642c1%3A0x951daa7c349f366f!2sCina!5e0!3m2!1sit!2sit!4v1542010897746" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	SUD AFRICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13503725.181394145!2d18.250919067585087!3d-34.27895033561469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1c34a689d9ee1251%3A0xe85d630c1fa4e8a0!2sSudafrica!5e0!3m2!1sit!2sit!4v1542010958058" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	SUD AMERICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542010993904" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+AI:
+	USA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542011074384" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	RUSSIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42199974.070938885!2d68.757842366179!3d49.79204455644542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x453c569a896724fb%3A0x1409fdf86611f613!2sRussia!5e0!3m2!1sit!2sit!4v1542011111759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	EUROPA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21815402.710804008!2d4.153232538363868!3d48.129272173414044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46ed8886cfadda85%3A0x72ef99e6b3fcf079!2sEuropa!5e0!3m2!1sit!2sit!4v1542011141015" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Li:
+	CILE
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26639140.328498386!2d-106.22991628539647!3d-35.40901341933539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c5410425af2f%3A0x505e1131102b91d!2sCile!5e0!3m2!1sit!2sit!4v1542011194871" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	RUSSIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42199974.070938885!2d68.757842366179!3d49.79204455644542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x453c569a896724fb%3A0x1409fdf86611f613!2sRussia!5e0!3m2!1sit!2sit!4v1542011111759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	EUROPA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21815402.710804008!2d4.153232538363868!3d48.129272173414044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46ed8886cfadda85%3A0x72ef99e6b3fcf079!2sEuropa!5e0!3m2!1sit!2sit!4v1542011141015" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+He:
+	USA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542011074384" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	CANADA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18877570.209776115!2d-113.73807541844722!3d54.72033878549525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0d03d337cc6ad9%3A0x9968b72aa2438fa5!2sCanada!5e0!3m2!1sit!2sit!4v1542011282207" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	POLONIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5044674.850528999!2d14.648438902341821!3d51.87519400123249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47009964a4640bbb%3A0x97573ca49cc55ea!2sPolonia!5e0!3m2!1sit!2sit!4v1542011314831" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Ir:
+	materiale raro - non ci sono mappe
+
+
+Sb:
+	BOLIVIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7845679.910873918!2d-68.04569648530828!3d-16.22566244972289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915edf8977bba295%3A0x1c9ec2bb0115edbf!2sBolivia!5e0!3m2!1sit!2sit!4v1542011391046" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	EUROPA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21815402.710804008!2d4.153232538363868!3d48.129272173414044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46ed8886cfadda85%3A0x72ef99e6b3fcf079!2sEuropa!5e0!3m2!1sit!2sit!4v1542011141015" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Ni:
+	AUSTRALIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29625025.212363303!2d115.19688399233242!3d-24.988693437425255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sit!2sit!4v1542011465222" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	RUSSIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42199974.070938885!2d68.757842366179!3d49.79204455644542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x453c569a896724fb%3A0x1409fdf86611f613!2sRussia!5e0!3m2!1sit!2sit!4v1542011111759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	CANADA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18877570.209776115!2d-113.73807541844722!3d54.72033878549525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0d03d337cc6ad9%3A0x9968b72aa2438fa5!2sCanada!5e0!3m2!1sit!2sit!4v1542011282207" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Cr:
+	SUD AFRICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13503725.181394145!2d18.250919067585087!3d-34.27895033561469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1c34a689d9ee1251%3A0xe85d630c1fa4e8a0!2sSudafrica!5e0!3m2!1sit!2sit!4v1542010958058" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	KAZAKISTAN
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11005087.319058772!2d57.93153155041456!3d47.66909728390766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38a91007ecfca947%3A0x5f7b842fe4b30e1b!2sKazakistan!5e0!3m2!1sit!2sit!4v1542011615399" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	INDIA:
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15280155.967092693!2d73.72179542160201!3d20.770773939758552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!5e0!3m2!1sit!2sit!4v1542011650951" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Pt:
+	SUD AFRICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13503725.181394145!2d18.250919067585087!3d-34.27895033561469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1c34a689d9ee1251%3A0xe85d630c1fa4e8a0!2sSudafrica!5e0!3m2!1sit!2sit!4v1542010958058" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	RUSSIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42199974.070938885!2d68.757842366179!3d49.79204455644542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x453c569a896724fb%3A0x1409fdf86611f613!2sRussia!5e0!3m2!1sit!2sit!4v1542011111759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	CANADA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18877570.209776115!2d-113.73807541844722!3d54.72033878549525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0d03d337cc6ad9%3A0x9968b72aa2438fa5!2sCanada!5e0!3m2!1sit!2sit!4v1542011282207" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Be:
+	SUD AMERICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542010993904" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	NORD AFRICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29992763.209190868!2d25.66283!3d23.4162027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x118209d86a076539%3A0x2191ab7a0a4ed8d0!2sNorth+Africa!5e0!3m2!1sit!2sit!4v1542011811949" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	AUSTRIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2750785.8648945224!2d11.102906492072353!3d47.67831536884971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d079b259d2a7f%3A0x1012d47bdde4c1af!2sAustria!5e0!3m2!1sit!2sit!4v1542011840053" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Ti:
+	AUSTRALIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29625025.212363303!2d115.19688399233242!3d-24.988693437425255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sit!2sit!4v1542011465222" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	SCANDINAVIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15467198.891330827!2d0.07713458921939358!3d61.75609160643834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4664bcea4d8e22cd%3A0x7186faed0155b381!2sPenisola+scandinava!5e0!3m2!1sit!2sit!4v1542011919574" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	NORD AMERICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55580066.62564992!2d-104.87149841503764!3d37.72530111965212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b30b71698e729d%3A0x131328839761a382!2sAmerica+del+Nord!5e0!3m2!1sit!2sit!4v1542011970485" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Au:
+	SUD AMERICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542010993904" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	USA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542011074384" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	AUSTRALIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29625025.212363303!2d115.19688399233242!3d-24.988693437425255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sit!2sit!4v1542011465222" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+W:
+	CINA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26951828.924054436!2d86.05428755035678!3d34.451686410470906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31508e64e5c642c1%3A0x951daa7c349f366f!2sCina!5e0!3m2!1sit!2sit!4v1542010897746" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	BOLIVIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7845679.910873918!2d-68.04569648530828!3d-16.22566244972289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915edf8977bba295%3A0x1c9ec2bb0115edbf!2sBolivia!5e0!3m2!1sit!2sit!4v1542011391046" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	RUSSIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42199974.070938885!2d68.757842366179!3d49.79204455644542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x453c569a896724fb%3A0x1409fdf86611f613!2sRussia!5e0!3m2!1sit!2sit!4v1542011111759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Co:
+	NORD AFRICA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29992763.209190868!2d25.66283!3d23.4162027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x118209d86a076539%3A0x2191ab7a0a4ed8d0!2sNorth+Africa!5e0!3m2!1sit!2sit!4v1542011811949" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	CINA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26951828.924054436!2d86.05428755035678!3d34.451686410470906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31508e64e5c642c1%3A0x951daa7c349f366f!2sCina!5e0!3m2!1sit!2sit!4v1542010897746" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	AUSTRALIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29625025.212363303!2d115.19688399233242!3d-24.988693437425255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sit!2sit!4v1542011465222" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Bi:
+	CANADA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18877570.209776115!2d-113.73807541844722!3d54.72033878549525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0d03d337cc6ad9%3A0x9968b72aa2438fa5!2sCanada!5e0!3m2!1sit!2sit!4v1542011282207" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	BOLIVIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7845679.910873918!2d-68.04569648530828!3d-16.22566244972289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915edf8977bba295%3A0x1c9ec2bb0115edbf!2sBolivia!5e0!3m2!1sit!2sit!4v1542011391046" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	NORVEGIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7088028.378616748!2d8.775700791199625!3d64.29594048199102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x461268458f4de5bf%3A0xa1b03b9db864d02b!2sNorvegia!5e0!3m2!1sit!2sit!4v1542012262274" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Ag:
+	USA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542011074384" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	PERU
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16136211.55606279!2d-84.06242166902854!3d-9.108796101599161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c850c05914f5%3A0xf29e011279210648!2zUGVyw7k!5e0!3m2!1sit!2sit!4v1542012325170" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	CINA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26951828.924054436!2d86.05428755035678!3d34.451686410470906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31508e64e5c642c1%3A0x951daa7c349f366f!2sCina!5e0!3m2!1sit!2sit!4v1542010897746" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Ta:
+	CANADA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18877570.209776115!2d-113.73807541844722!3d54.72033878549525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b0d03d337cc6ad9%3A0x9968b72aa2438fa5!2sCanada!5e0!3m2!1sit!2sit!4v1542011282207" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	EUROPA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21815402.710804008!2d4.153232538363868!3d48.129272173414044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46ed8886cfadda85%3A0x72ef99e6b3fcf079!2sEuropa!5e0!3m2!1sit!2sit!4v1542011141015" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	THAILANDIA:
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7961367.603453067!2d96.99282356958294!3d13.01104007108394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d8df747424db1%3A0x9ed72c880757e802!2sThailandia!5e0!3m2!1sit!2sit!4v1542012465306" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Si:
+	USA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26359294.213879205!2d-113.71754000532057!3d36.24708982631333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sStati+Uniti!5e0!3m2!1sit!2sit!4v1542011074384" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	AUSTRALIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29625025.212363303!2d115.19688399233242!3d-24.988693437425255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2b2bfd076787c5df%3A0x538267a1955b1352!2sAustralia!5e0!3m2!1sit!2sit!4v1542011465222" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	RUSSIA
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42199974.070938885!2d68.757842366179!3d49.79204455644542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x453c569a896724fb%3A0x1409fdf86611f613!2sRussia!5e0!3m2!1sit!2sit!4v1542011111759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+Re: raro - nessun paese particolare
+
